@@ -1,0 +1,104 @@
+header {
+    background-color: #133F72;
+    height: 10vh;
+
+}
+
+.titulo {
+    color: white;
+    padding: 2vh;
+    margin: 0vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.foto {
+    padding: 5vh;
+    margin: 2vh;
+    position: absolute;
+    left: 25vh;
+    width: 27vh;
+    height: 35vh;
+    border-radius: 10vh;
+}
+
+.subt {
+    /*subtitulo nomnbre*/
+    position: absolute;
+    left: 22vh;
+    bottom: 35vh;
+    left: 30vh;
+    margin: 0vh;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 30px;
+
+}
+
+.subtitulos {
+    /*todos los subtitulos derecha*/
+    color: black;
+    padding: 1vh;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.sc {
+    /*contenedor izquierdo*/
+    background-color: #376DAD;
+    width: 100vh;
+    height: 85vh;
+    float: left;
+    position: absolute;
+
+}
+
+
+.scc {
+    /*contenedor derecho*/
+    background-color: white;
+    width: 100vh;
+    height: 85vh;
+    left: 90vh;
+    position: absolute;
+
+}
+
+
+.ds {
+    /*datos de contacto*/
+    position: absolute;
+    bottom: 10vh;
+    left: 8vh;
+    margin: 0vf;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.dss {
+    /*textos  */
+    margin-left: 10vh;
+    padding: 1vh;
+    color: black;
+    font-size: 12 px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+footer {
+    height: 5vh;
+    background-color: #333;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    padding: auto;
+    width: 100%;
+
+}
